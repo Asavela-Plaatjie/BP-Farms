@@ -103,9 +103,10 @@ nav {
     position: absolute;
     width: 100%;
     text-align: center;
-    top: 4%;
+    top: 7%;
     padding: 2rem;
     background-color: #806b3383;
+ margin-top: -3rem;
 }
 .hero-content h1 {
     font-size: 2.7rem;
@@ -355,4 +356,5 @@ footer p {
     padding: 1rem 0;
     color: black;
 }
+
 
