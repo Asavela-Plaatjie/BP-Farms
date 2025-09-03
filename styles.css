@@ -103,7 +103,7 @@ nav {
     position: absolute;
     width: 100%;
     text-align: center;
-    top: 7%;
+    top: 4%;
     padding: 2rem;
     background-color: #806b3383;
 }
@@ -355,3 +355,4 @@ footer p {
     padding: 1rem 0;
     color: black;
 }
+
